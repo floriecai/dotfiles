@@ -1,0 +1,47 @@
+// Place your key bindings in this file to overwrite the defaults
+[
+    {
+            "key": "ctrl+k",
+            "command": "workbench.action.toggleSidebarVisibility"
+        },
+    {
+            "key": "ctrl+b",
+            "command": "-workbench.action.toggleSidebarVisibility"
+        },
+    {
+            "key": "alt+left",
+            "command": "workbench.action.navigateBack"
+        },
+    {
+            "key": "ctrl+alt+-",
+            "command": "-workbench.action.navigateBack"
+        },
+    {
+            "key": "alt+right",
+            "command": "workbench.action.navigateForward"
+        },
+    {
+            "key": "ctrl+shift+-",
+            "command": "-workbench.action.navigateForward"
+        },
+    {
+            "key": "shift+alt+t",
+            "command": "workbench.action.quickOpenTerm"
+        },
+    {
+            "key": "alt+meta+t",
+            "command": "workbench.action.terminal.focus"
+        },
+    {
+            "key": "ctrl+2",
+            "command": "workbench.action.terminal.focusNext"
+        },
+    {
+            "key": "ctrl+1",
+            "command": "workbench.action.terminal.focusPrevious"
+        },
+    {
+            "key": "ctrl+5",
+            "command": "workbench.files.action.showActiveFileInExplorer"
+        }
+]

@@ -1,0 +1,27 @@
+{
+    "window.zoomLevel": -2,
+    "editor.minimap.enabled": false,
+    "workbench.editor.revealIfOpen": true,
+    "editor.renderWhitespace": "all",
+    "gitlens.advanced.messages": {
+            "suppressCommitHasNoPreviousCommitWarning": false,
+            "suppressCommitNotFoundWarning": false,
+            "suppressFileNotUnderSourceControlWarning": false,
+            "suppressGitVersionWarning": false,
+            "suppressLineUncommittedWarning": false,
+            "suppressNoRepositoryWarning": false,
+            "suppressResultsExplorerNotice": false,
+            "suppressUpdateNotice": false,
+            "suppressWelcomeNotice": true
+            
+        },
+    "gitlens.annotations.file.gutter.format":"${author|8} ${message|15} ${date|19-}",
+    "gitlens.annotations.file.gutter.dateFormat": "MMM D/YY",
+    "files.exclude": {
+            "**/*.pyc": true
+    },
+    "search.exclude": {
+            "**/node_modules/": true
+    },
+    "explorer.confirmDelete": false
+}
