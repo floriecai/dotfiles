@@ -15,7 +15,7 @@
             "suppressWelcomeNotice": true
             
         },
-    "gitlens.annotations.file.gutter.format":"${author|8} ${message|15} ${date|19-}",
+    "gitlens.annotations.file.gutter.format":"${author|8} ${message|14444} ${date|19-}",
     "gitlens.annotations.file.gutter.dateFormat": "MMM D/YY",
     "files.exclude": {
             "**/*.pyc": true
